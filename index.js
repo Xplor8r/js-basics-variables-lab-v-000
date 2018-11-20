@@ -2,5 +2,5 @@ let companyName = 'Scuber';
 
 let mostProfitableNeighborhood = "";
 
-let 
+let companyCeo = 1;
 
